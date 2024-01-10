@@ -1,9 +1,8 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
- 
+  Portfolio Website 
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/Rensi_demo.png" />
+  <img alt="Demo" src="./Images/rensi_demo.png" />
 </div>
 
 <br/>
